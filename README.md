@@ -76,8 +76,7 @@
 ![Achiever Badge](https://img.shields.io/badge/DSA-Achiever-green?style=for-the-badge&logo=codingninjas)
 
 🔗 [My Coding Ninjas Profile](https://www.naukri.com/code360/profile/lovekhandelwal)
-
-<li><a target="_blank" href=""></a></li>
+[![LeetCode Heatmap](https://leetcard.jacoblin.cool/Love_Khandelwal?ext=heatmap)](https://leetcode.com/u/Love_Khandelwal/)
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/love-khandelwal11/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/_loving__love/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
