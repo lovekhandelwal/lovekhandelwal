@@ -50,8 +50,12 @@
 ![LeetCode 50 Days](https://img.shields.io/badge/LeetCode-50%20Days-orange?style=for-the-badge&logo=leetcode)
 ![LeetCode 100 Days](https://img.shields.io/badge/LeetCode-100%20Days-yellow?style=for-the-badge&logo=leetcode)
 
-### 🎓 Coding Ninjas
-![Coding Ninjas All Batches](https://img.shields.io/badge/CodingNinjas-All%20Batches-red?style=for-the-badge&logo=codingninjas)
+### 🎓 Coding Ninjas (Code360)
+![Master Badge](https://img.shields.io/badge/DSA-Master-purple?style=for-the-badge&logo=codingninjas)
+![Specialist Badge](https://img.shields.io/badge/DSA-Specialist-blue?style=for-the-badge&logo=codingninjas)
+![Achiever Badge](https://img.shields.io/badge/DSA-Achiever-green?style=for-the-badge&logo=codingninjas)
+
+🔗 [My Coding Ninjas Profile](https://www.naukri.com/code360/profile/lovekhandelwal)
 
 <li><a target="_blank" href=""></a></li>
 <h2>⚡️ Where to find me</h2>
