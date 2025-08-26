@@ -1,6 +1,5 @@
 <h1>Hi 👋, I'm Love Khandelwal</h1>
 
-<br>
 
 <p> Full Stack Web & App Developer </p>
 
