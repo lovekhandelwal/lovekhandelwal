@@ -1,26 +1,22 @@
 <h1>Hi 👋, I'm Love Khandelwal</h1>
-<p>A passionate full stack and App & Web developer</p>
-<h2>🚀 Languages and Tools I Use</h2>
 <p>A passionate Full Stack Web & App Devloper from India
 2004shashwat17
 
-🔭 I’m currently working on my TECH STACK
+🔭 I’m currently working on my project
 
-💬 Ask me about **React JS, MERN stack, React Native, PHP, C#/.NET, Spring Boot **
+💬 Ask me about **React JS, MERN stack, React Native **
 
-🍬 Work on UI DESIGNING && Software Tools Figma, Draw.io, Kanban, Trello
+🍬 Work on UI DESIGNING && Software Tools Figma, Draw.io
 
-🗝️ Deployment on Microsoft Azure, Render, Netlify & Github **
-
-🗝 Some Demo Websites -> https://rommie-client.onrender.com/ || https://orange-meadow-027571e0f.2.azurestaticapps.net/ || https://braindomain.onrender.com/ **
+🗝️ Deployment on  Netlify & Github **
 
 📫 How to reach me shashwats500@gmail.com
 
-👩🏻‍💻 Coding Platform -> https://codolio.com/profile/lpol5UMt || https://leetcode.com/shashwats500/
+👩🏻‍💻 Coding Platform -> https://codolio.com/profile/XX3y8QBB || https://leetcode.com/u/Love_Khandelwal/
 
-⚡ Fun fact I'am coffee Lover🍵
+⚡ Fun fact I Love editing and fitness 💪
 
-MY PORTFOLIO WEBSITE -> https://shashwatsaxena.netlify.app/</p>
+<h2>🚀 Languages and Tools </h2>
 
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
