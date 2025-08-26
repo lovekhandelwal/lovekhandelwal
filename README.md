@@ -1,6 +1,5 @@
 <h1>Hi 👋, I'm Love Khandelwal</h1>
-<p>A passionate Full Stack Web & App Devloper from India
-2004shashwat17
+<p> Full Stack Web & App Developer </p>
 
 🔭 I’m currently working on my project
 
