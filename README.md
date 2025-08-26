@@ -10,7 +10,7 @@
 
 🗝️ Deployment on  Netlify & Github **
 
-📫 How to reach me shashwats500@gmail.com
+📫 How to reach me lovekhandelwal1680@gmail.com
 
 👩🏻‍💻 Coding Platform -> https://codolio.com/profile/XX3y8QBB || https://leetcode.com/u/Love_Khandelwal/
 
