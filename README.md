@@ -44,8 +44,15 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>✒️ Recent Posts</h2>
-<ul>
+## ✒️ Achievements  
+
+### 🏅 LeetCode
+![LeetCode 50 Days](https://img.shields.io/badge/LeetCode-50%20Days-orange?style=for-the-badge&logo=leetcode)
+![LeetCode 100 Days](https://img.shields.io/badge/LeetCode-100%20Days-yellow?style=for-the-badge&logo=leetcode)
+
+### 🎓 Coding Ninjas
+![Coding Ninjas All Batches](https://img.shields.io/badge/CodingNinjas-All%20Batches-red?style=for-the-badge&logo=codingninjas)
+
 <li><a target="_blank" href=""></a></li>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/love-khandelwal11/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
