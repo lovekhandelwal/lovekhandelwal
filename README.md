@@ -15,7 +15,7 @@
 
 📫 How to reach me lovekhandelwal1680@gmail.com
 
-👩🏻‍💻 Coding Platform -> https://codolio.com/profile/XX3y8QBB || https://leetcode.com/u/Love_Khandelwal/
+👩🏻‍💻 Coding Platform -> https://codolio.com/profile/XX3y8QBB || https://leetcode.com/u/Love_Khandelwal/ || https://www.naukri.com/code360/profile/lovekhandelwal
 
 ⚡ Fun fact I Love editing and fitness 💪
 
@@ -75,7 +75,6 @@
 ![Specialist Badge](https://img.shields.io/badge/DSA-Specialist-blue?style=for-the-badge&logo=codingninjas)
 ![Achiever Badge](https://img.shields.io/badge/DSA-Achiever-green?style=for-the-badge&logo=codingninjas)
 
-🔗 [My Coding Ninjas Profile](https://www.naukri.com/code360/profile/lovekhandelwal)
 [![LeetCode Heatmap](https://leetcard.jacoblin.cool/Love_Khandelwal?ext=heatmap)](https://leetcode.com/u/Love_Khandelwal/)
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/love-khandelwal11/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
