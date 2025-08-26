@@ -1,5 +1,11 @@
 <h1>Hi 👋, I'm Love Khandelwal</h1>
+
+<br>
+<br>
+
 <p> Full Stack Web & App Developer </p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=LoveKhandelwal&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 🔭 I’m currently working on my project
 
